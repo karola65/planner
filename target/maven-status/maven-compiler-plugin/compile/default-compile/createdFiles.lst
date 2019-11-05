@@ -1,0 +1,17 @@
+io\github\bbodin\planner\Section.class
+io\github\bbodin\planner\PlannerService.class
+io\github\bbodin\planner\PlannerFrame.class
+io\github\bbodin\planner\Planner.class
+io\github\bbodin\planner\PlannerServer.class
+io\github\bbodin\planner\Scheduler.class
+io\github\bbodin\planner\PlannerGUI$1.class
+io\github\bbodin\planner\PlannerGUI.class
+io\github\bbodin\planner\Controller.class
+io\github\bbodin\planner\PlannerServerMain.class
+io\github\bbodin\planner\XMLizable.class
+io\github\bbodin\planner\Task.class
+io\github\bbodin\planner\Scheduler$NotFoundException.class
+io\github\bbodin\planner\Board.class
+io\github\bbodin\planner\Scheduler$TaskExecution.class
+io\github\bbodin\planner\Main.class
+io\github\bbodin\planner\User.class
