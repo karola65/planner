@@ -1,3 +1,2 @@
 language : Java
-jdk:
--12.0
+jdk: 12.0
